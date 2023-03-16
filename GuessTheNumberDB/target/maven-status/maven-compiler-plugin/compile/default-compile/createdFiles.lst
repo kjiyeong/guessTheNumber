@@ -1,0 +1,16 @@
+com\mycompany\guessthenumberdb\TestApplicationConfiguration.class
+com\mycompany\guessthenumberdb\Data\RoundDataImpl$RoundMapper.class
+com\mycompany\guessthenumberdb\App.class
+com\mycompany\guessthenumberdb\GuessTheNumberDBController\Controller.class
+com\mycompany\guessthenumberdb\Service\GuessTheNumberService.class
+com\mycompany\guessthenumberdb\GuessTheNumberDBController\Error.class
+com\mycompany\guessthenumberdb\Data\RoundDataImpl.class
+com\mycompany\guessthenumberdb\GuessTheNumberDBController\ControllerExceptionHandler.class
+com\mycompany\guessthenumberdb\Model\Postman.class
+com\mycompany\guessthenumberdb\Model\Game.class
+com\mycompany\guessthenumberdb\Model\Round.class
+com\mycompany\guessthenumberdb\Data\GameData.class
+com\mycompany\guessthenumberdb\Data\GameDataImpl$GameMapper.class
+com\mycompany\guessthenumberdb\Data\GameDataImpl.class
+com\mycompany\guessthenumberdb\Service\GuessTheNumberServiceImpl.class
+com\mycompany\guessthenumberdb\Data\RoundData.class
